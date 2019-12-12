@@ -4,6 +4,11 @@ Author: Bich Tran (b.tran@un-ihe.org)
 
 Description: Ipython notebooks that contain code snippets on how to use FAO's WaPOR database API in Python
 
+## Python env
+
+requests=2.21.0
+pandas=0.24.2
+
 ## About WaPOR
 
 **Link**: https://wapor.apps.fao.org/
@@ -44,3 +49,5 @@ Under **API Token**, click **Generate API Token**
 The API Token is user's personal key, thus, should be stored and kept private. In case of losing API Token, revoke the old token and create a new one.
 
 ![](/img/5_revoketoken.png)
+
+
