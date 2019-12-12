@@ -7,7 +7,10 @@ Description: Ipython notebooks that contain code snippets on how to use FAO's Wa
 ## Python env
 
 requests=2.21.0
+
 pandas=0.24.2
+
+matplotlib=3.0.3
 
 ## About WaPOR
 
