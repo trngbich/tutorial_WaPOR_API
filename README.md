@@ -1,5 +1,7 @@
 # WaPOR API examples
 
+![](http://www.fao.org/typo3temp/pics/93f49ce381.jpg)
+
 Author: Bich Tran (b.tran@un-ihe.org)
 
 Description: Ipython notebooks that contain code snippets on how to use FAO's WaPOR database API in Python
