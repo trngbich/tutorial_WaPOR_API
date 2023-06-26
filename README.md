@@ -14,11 +14,13 @@ Description: Ipython notebooks that contain code snippets on how to use FAO's Wa
 
 ## Python env
 
-requests=2.21.0
+requests
 
-pandas=0.24.2
+pandas
 
-matplotlib=3.0.3
+matplotlib
+
+rasterio
 
 ## About WaPOR
 
